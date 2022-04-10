@@ -1,2 +1,6 @@
 ЁЕм╩нд╪Чпч╦д
-main fix
+<<<<<<< HEAD
+main and dev fix
+
+
+
